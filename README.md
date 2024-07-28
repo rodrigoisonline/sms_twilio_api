@@ -3,11 +3,14 @@ Check SMS Messages with Twilio API, This PHP script allows users to check SMS me
 
 Features
 Secure Input Handling: Sanitizes user input to ensure safe processing.
+
 cURL Integration: Utilizes cURL for making HTTP requests to the Twilio API.
 Message Display: Fetches and displays messages in a user-friendly format.
+
 Prerequisites
 PHP environment with cURL enabled.
 Twilio account with valid Account SID and Auth Token.
+
 Usage
 Set Up Twilio Credentials: Update the $account_sid and $auth_token variables with your Twilio Account SID and Auth Token.
 Deploy the Script: Place the script on your web server.
